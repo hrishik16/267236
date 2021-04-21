@@ -1,5 +1,7 @@
 #................printing hello world in python.......
 print("Hello")
+print(2**5)
+print(5//2)
 #.....Input output in python...
 a=int(input())
 b=int(input())
@@ -10,4 +12,5 @@ for i in range(10):
     lst.append(i)
 
 print(lst)
+
     
